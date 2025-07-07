@@ -6,28 +6,8 @@ This project demonstrates bit-banged I²C (via CMSIS register writes, **no HAL**
 
 ## File Layout
 
-LCD/
-├─ .cproject
-├─ .gitignore
-├─ LCD.ioc
-├─ Core/
-│ ├─ Inc/
-│ │ └─ main.h
-│ └─ Src/
-│ └─ main.c ← all application code here
-├─ Drivers/
-└─ …
-
-css
-Copy
-Edit
-
 All of the code lives in:
 Core/Src/main.c
-
-markdown
-Copy
-Edit
 
 ---
 
